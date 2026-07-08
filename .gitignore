@@ -1,0 +1,30 @@
+```gitignore
+# Visual Studio
+.vs/
+*.ipch
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Pastas de compilação
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Arquivos gerados na compilação
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.dll
+*.lib
+*.exp
+```
