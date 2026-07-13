@@ -39,8 +39,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-07T18:44:36.246Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -50,7 +49,7 @@
               "RelativeDocumentMoniker": "Navigator.cpp",
               "ToolTip": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp",
               "RelativeToolTip": "Navigator.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-07T19:13:44.026Z",
               "EditorCaption": ""
@@ -65,8 +64,7 @@
               "RelativeToolTip": "Screen.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-07T19:10:14.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T19:10:14.673Z"
             },
             {
               "$type": "Document",
@@ -78,8 +76,7 @@
               "RelativeToolTip": "Screen.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-07-07T18:41:23.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T18:41:23.4Z"
             }
           ]
         }
