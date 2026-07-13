@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:Navigator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Navigator.h",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.h",
               "RelativeDocumentMoniker": "Navigator.h",
@@ -44,19 +48,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.md*",
+              "RelativeToolTip": "README.md*",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAYwI8BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-13T19:18:14.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Navigator.cpp",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp",
               "RelativeDocumentMoniker": "Navigator.cpp",
               "ToolTip": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp",
               "RelativeToolTip": "Navigator.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-07T19:13:44.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Screen.cpp",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Screen.cpp",
               "RelativeDocumentMoniker": "Screen.cpp",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Screen.h",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Screen.h",
               "RelativeDocumentMoniker": "Screen.h",
