@@ -1,7 +1,8 @@
 #include "Screen.h"
 
 Screen::Screen(int width ,int height): width(0), height(0) {
-
+	this->width = width;
+	this->height = height;
 
 
 
