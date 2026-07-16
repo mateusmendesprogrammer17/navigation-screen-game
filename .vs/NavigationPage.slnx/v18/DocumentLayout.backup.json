@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:Screen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:Navigator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.pt-BR.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:README.pt-BR.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:Navigator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:Navigator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|solutionrelative:Navigator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB65E659-6ADB-4EEB-846C-53ACB79D9D51}|NavigationPage.vcxproj|F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Screen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Navigator.h",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.h",
               "RelativeDocumentMoniker": "Navigator.h",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Navigator.cpp",
               "DocumentMoniker": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Navigator.cpp",
               "RelativeDocumentMoniker": "Navigator.cpp",
@@ -93,7 +93,7 @@
               "RelativeDocumentMoniker": "Screen.cpp",
               "ToolTip": "F:\\Pasta Mateus\\ProjetosCPP\\NavigationPage\\Screen.cpp",
               "RelativeToolTip": "Screen.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-07T19:10:14.673Z",
               "EditorCaption": ""

@@ -1,30 +1,37 @@
-```gitignore
+# CMake build
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
 # Visual Studio
 .vs/
-*.ipch
-
-# Arquivos de usuário do Visual Studio
-*.user
 *.suo
-*.VC.db
-*.VC.opendb
+*.user
+*.userosscache
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
 
-# Pastas de compilação
+# Compilação
 Debug/
 Release/
 x64/
 x86/
-build/
-out/
-
-# Arquivos gerados na compilação
 *.obj
-*.pch
-*.pdb
-*.ilk
-*.idb
-*.exe
-*.dll
+*.o
 *.lib
-*.exp
-```
+*.dll
+*.exe
+*.pdb
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
