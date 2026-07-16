@@ -4,6 +4,21 @@ Uma biblioteca leve em **C++20** para gerenciamento de navegação entre telas d
 
 ---
 
+# Runtime da Biblioteca
+Esta biblioteca atualmente é compilada utilizando o Runtime estático do Microsoft Visual C++:
+
+| Configuração | Runtime |
+|---|---|
+| Debug | `/MTd` |
+| Release | `/MTd` |
+
+Projetos que utilizarem esta biblioteca devem utilizar a mesma configuração de runtime.
+
+Misturar diferentes runtimes pode causar erros de linkedição, por exemplo:
+
+- `/MT` com `/MD`
+- `/MTd` com `/MDd` não são recomendados.
+___
 # Sobre
 
 Muitos desenvolvedores C++ criam jogos sem utilizar uma engine completa.
@@ -60,7 +75,8 @@ Estrutura atual:
 
 ```
 NavigationPage/
-
+        
+├── CMakeLists.txt
 ├── Navigator.cpp
 ├── Navigator.h
 ├── Screen.cpp
@@ -191,7 +207,7 @@ Suas Telas do Jogo
 ---
 
 # Requisitos
-
+  - CMake 3.20 ou superior
 ## Compilador
 
 Necessário:
@@ -210,6 +226,7 @@ Compatível com:
 
 - Windows.
 - Linux.
+- MacOS.
 
 ---
 

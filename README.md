@@ -22,6 +22,21 @@ As projects grow, developers often end up creating large `switch` statements and
 The library uses a **stack-based navigation system** to manage game screens, providing a cleaner and more organized way to control different states of a game.
 
 ---
+# Runtime of library
+This library is currently built using the static Microsoft Visual C++ Runtime:
+
+| Configuration | Runtime |
+|---|---|
+| Debug | `/MTd` |
+| Release | `/MTd` |
+
+Projects using this library should use the same runtime configuration.
+
+Using different runtime libraries may cause linker errors.
+/MT with /MD
+/MTd with /MDd aren't recommended.
+
+___ 
 
 # Features
 
@@ -44,7 +59,8 @@ Current project structure:
 
 ```
 NavigationPage/
-
+        
+├── CMakeLists.txt
 ├── Navigator.cpp
 ├── Navigator.h
 ├── Screen.cpp
@@ -177,11 +193,12 @@ Your Game Screens
 
 # Requirements
 
-## Compiler Requirements
+## Build Requirements
 
-- C++20 compatible compiler.
-
-Supported compilers:
+- CMake 3.16 or newer
+- C++20 compatible compiler
+ 
+## Supported compilers:
 
 - Microsoft Visual C++ (Visual Studio 2022+)
 - GCC
@@ -193,6 +210,7 @@ Supported:
 
 - Windows
 - Linux
+- MacOS
 
 ---
 
