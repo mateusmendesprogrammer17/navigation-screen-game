@@ -5,7 +5,7 @@ class Screen {
 
 public:
 	Screen(int width, int height);
-
+	virtual ~Screen() = default;
 	void setWidth(int width);
 	void  setHeight(int height);
 	int getWidth() const;
