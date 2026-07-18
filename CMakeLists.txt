@@ -34,3 +34,8 @@ install(
     NAMESPACE NavigationPage::
     DESTINATION cmake
 )
+configure_package_config_file(
+    cmake/NavigationPageConfig.cmake.in
+    ${CMAKE_CURRENT_BINARY_DIR}/NavigationPageConfig.cmake
+    INSTALL_DESTINATION cmake
+)
